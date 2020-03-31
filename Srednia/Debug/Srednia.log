@@ -1,0 +1,3 @@
+﻿  Srednia.cpp
+C:\Users\FlafyKing\source\repos\Srednia\Srednia.cpp(13,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Srednia.vcxproj -> C:\Users\FlafyKing\source\repos\Srednia\Debug\Srednia.exe
